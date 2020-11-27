@@ -1,0 +1,5 @@
+.idea/
+.idea/$CACHE_FILE$ .idea/Baseline_of_Pedestrian_Attribute_Recognition.iml .idea/deployment.xml .idea/inspectionProfiles .idea/misc.xml .idea/modules.xml .idea/vcs.xml .idea/workspace.xml
+build/ n dist/
+build/bdist.linux-x86_64 build/lib n dist/Strong_Baseline_PAR-1.0.0-py3-none-any.whl
+.idea/Baseline_of_Pedestrian_Attribute_Recognition.iml
